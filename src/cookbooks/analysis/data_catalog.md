@@ -1,4 +1,5 @@
-# The Data Catalog
+Arroyos_8@hotmail.com
+The Data Catalog
 
 Reference material for data assets (tables, dashboards, pings, etc.) can primarily be found in the Data Catalog: https://mozilla.acryl.io.
 It provides an automatically updated "map" of data assets, including lineage and descriptions, without the need for manual curation.
